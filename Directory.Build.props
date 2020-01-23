@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Net.Compilers.Toolset" Version="3.6.0-beta1-20071-02" />
+  </ItemGroup>
+</Project>

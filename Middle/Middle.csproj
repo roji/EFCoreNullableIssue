@@ -2,13 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <DebugType>Full</DebugType>
-        <IsPackable>false</IsPackable>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Nuget\Nuget.csproj" />
+      <ProjectReference Include="..\Bottom\Bottom.csproj" />
     </ItemGroup>
-
 
 </Project>

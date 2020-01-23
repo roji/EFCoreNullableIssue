@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuget", "Nuget\Nuget.csproj", "{72D379AD-9E36-4D64-A5D2-718306A9CBA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bottom", "Bottom\Bottom.csproj", "{72D379AD-9E36-4D64-A5D2-718306A9CBA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{250204D7-3D4C-45A8-BB12-6817EA247BBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle", "Middle\Middle.csproj", "{250204D7-3D4C-45A8-BB12-6817EA247BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{EE3F27DB-FB47-4A15-84A6-BEEFF2C3BD4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top", "Top\Top.csproj", "{EE3F27DB-FB47-4A15-84A6-BEEFF2C3BD4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
